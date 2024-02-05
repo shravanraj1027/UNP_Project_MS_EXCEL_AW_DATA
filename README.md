@@ -8,4 +8,4 @@ Effectively visualized Key Performance Indicators (KPIs) in a format that delive
 Applied pertinent Excel functions and formulas to optimize and structure the data, ensuring seamless and impactful visualization.
 
 EXCEL FILE LINK:- https://docs.google.com/spreadsheets/d/1XtBwSn5QC3UE7kwVRZIEnJlLuhhFRHi8/edit?usp=sharing&ouid=103629399850004984380&rtpof=true&sd=true
-PDF link:- https://drive.google.com/file/d/1wdNtH-WBdqvJgeJeUcnxZuIRD9dd8eGU/view?usp=sharing
+PDF link:- https://drive.google.com/file/d/1058droHhoIt4zsfTF6uhvL80ysoxsUVC/view?usp=sharing
